@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Civic Champs is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://civicchamps.com/
+Civic Champs provides volunteer management software that helps nonprofits recruit, engage, and coordinate volunteers. Their platform offers tools for scheduling, communication, reporting, and volunteer profile management, aiming to reduce recruitment effort by up to 85% and streamline volunteer operations for organizations of all sizes.
+
+**Areas:** Company · Volunteer Management · Nonprofit Software · SaaS · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://civicchamps.com/)
+- [Documentation](https://www.civicchamps.com/)
+- [Pricing](https://www.civicchamps.com/pricing)
+- [Support](https://www.civicchamps.com/faq)
+- [Blog](https://www.civicchamps.com/blog)
+- [Privacy policy](https://www.civicchamps.com/privacypolicy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/civic-champs/](https://apis.io/providers/civic-champs/).
